@@ -1,4 +1,4 @@
-### Kiril Lukyanenko: senior .NET backend engineer
+### Kirill Lukianenko: senior .NET backend engineer
 
 I build backend services with AI coding agents, and make their work checkable: a written spec, tests the agent never sees, gates in CI, and a log of every run with its cost.
 
